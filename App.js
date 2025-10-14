@@ -21,7 +21,7 @@ function App() {
         
           <div style={{ textAlign: "center", marginTop: "40px" }}>
             <h1>ℹ️ About Page</h1>
-            <h1>Welcome to my repo</h1>
+            <h1 Welcome to my repo</h1>
 
             
             <p>This app demonstrates basic React routing and components.</p>
